@@ -1,0 +1,24 @@
+/* its majorly for gradient */
+
+
+
+.gradient {
+    background: linear-gradient(90deg, rgba(80,80,208,1) 0%, rgba(70,18,65,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.gradient_green {
+    background: linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.gradient_green1 {
+    background: linear-gradient(319deg, #dbf26e 0%, #61fa74 37%, #1cfdd6 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.gradient_blue{
+    background: linear-gradient(90deg, #ff00aa, #00FFF1);
+}
